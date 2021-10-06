@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gnuno/graficas/3bdc6f38ee044a95c1c52ea296a677a0a7d5e228/gnuno-logo.svg" alt="logo" width="600"/>
 </p>
+
 ## Hola, somos GNUNO 👋
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gnuno/graficas/3bdc6f38ee044a95c1c52ea296a677a0a7d5e228/gnuno-logo.svg" alt="logo" width="600"/>
-</p>
 Somos un grupo de estudiantes provenientes de la Universidad Nacional del Oeste que nos encanta la tecnología y aún más si es open source!
 
 Creemos fervientemente en que la educación debe ser gratuita y para todxs, es por eso que nos dedicamos a realizar talleres y charlas sobre temas IT que nos interesen o que interesen a la comunidad en general!
