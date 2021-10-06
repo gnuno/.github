@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gnuno/graficas/3bdc6f38ee044a95c1c52ea296a677a0a7d5e228/gnuno-logo.svg" alt="logo" width="600"/>
+</p>
 ## Hola, somos GNUNO 👋
 
 Somos un grupo de estudiantes provenientes de la Universidad Nacional del Oeste que nos encanta la tecnología y aún más si es open source!
@@ -10,7 +13,7 @@ Si bien nacimos en la Universidad Nacional del Oeste, nuestras puertas están ab
 
 #### ¿Cómo sumarte? 📖
 
-Si querés sumarte al grupo, podés hablarnos por nuestras redes o por telegram!
+Si querés sumarte al grupo, podés hablarnos por [nuestras redes](https://linktr.ee/gnuno) o por [telegram](https://t.me/gnuno_merlo)!
 
 #### Ideas de proyectos 🚀
 
@@ -26,7 +29,7 @@ o tan sólo podés mencionarnoslo, la idea es el primer paso! Nosotros nos encar
 
 ## Nuestras redes
 
-[![instagram][1]][2] [![facebook][3]][4] [![linkedin][5]][6] [![linkedin][7]][8]
+[![instagram][1]][2] [![facebook][3]][4] [![linkedin][5]][6] [![linkedin][7]][8] [![linktree][9]][10]
 
 [1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [2]: https://www.instagram.com/gnuno.merlo
@@ -36,3 +39,6 @@ o tan sólo podés mencionarnoslo, la idea es el primer paso! Nosotros nos encar
 [6]: https://www.linkedin.com/groups/12289167/
 [7]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [8]: https://t.me/gnuno_merlo
+[9]: https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white
+[10]: https://linktr.ee/gnuno
+
